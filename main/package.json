@@ -1,0 +1,26 @@
+{
+  "name": "npm-scripts-example-main",
+  "version": "0.0.1",
+  "description": "An example for npm scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csbun/npm-scripts-example.git"
+  },
+  "keywords": [
+    "npm",
+    "scripts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csbun/npm-scripts-example/issues"
+  },
+  "homepage": "https://github.com/csbun/npm-scripts-example#readme",
+  "dependencies": {
+    "npm-scripts-example": "0.0.5"
+  }
+}
